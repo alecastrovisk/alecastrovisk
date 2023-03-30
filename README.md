@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job.<br>👯 I’m looking to collaborate on React Native and React.js projects.<br>🤝 I’m looking for help with React Native <3.<br>🌱 I’m currently learning React Native and React.<br>💬 Ask me about everything  i know.<br>Persistence, constancy and love to overcome problems!
+🔭 I’m currently a SENAI intern .<br>👯 I’m looking to collaborate on React Native, React.js and Node.js projects. Ask me about everything  i know.<br>Persistence, constancy and love to overcome problems!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alecastrovisk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-castro-7998a4158/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Alecastrovisk) 
